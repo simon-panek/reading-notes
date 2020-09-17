@@ -90,6 +90,44 @@ B|B2|B3
 GitHub supports emoji :+1:!
 Here is an [emoji cheat sheet](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#using-emoji).
 ***
+## Read: 02 - The Coder's Computer
+
+### Choosing a text editor
+
+#### A text editor is a piece of software located on your local machine or operated in a broser that allows the user to write and manage text.
+
+Four primary features that make for a good text editor
+- Code completion *allows you to begin typing and editor will display possilbe suggestions*
+- Syntax highlighting *changes the color of text based on whether the text is an attribute, element, or copy*
+- Variety of Themes *allows the user to change the overall appearance of the editor*
+- Avalability of Extensions *allow the user to add "plugins" to improve coding efficiency.
+
+Emmet is a shorthand language that is built into some text editors that allow the user to code in HTML and CSS much more quickly.
+
+Preinstalled Text Editors (Typically very bare bones.)
++ Mac = Text Edit
++ PC = Notepad
++ Linux = Will depend on the particular distribution
+
+3rd Party Tex Editors (Most provide some or all of the desirable features.)
++ NotePad++ *For Windows only*
++ TextWrangler/BB Edit *For Mac only. Text Wrangler has become BB Edit, free for 30 days then $50*
++ Visual Studio Code *Made by Microsoft for Windows, Mac, and Linux. Has Emmet built in.*
++ Atom *Created by GitHub for Windows, Mac, and Linux. All the necessary features.*
++ Brackets *All OS, but only HTML, CSS, and JavaScript. Has Live Preview which updates after every change.*
+* Sublime Text *This is a full service text editor. It has a free version, but the full version costs $70.*
+
+IDE = Integrated Development Environment *a suite of software including text editor, file manager, compiler, and debugger
+***
+
+
+
+
+
+
+
+
+
 
 
 
