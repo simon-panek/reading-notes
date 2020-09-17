@@ -39,3 +39,5 @@ X|X|X
 ##### My deployed site can be found [here.](https://paneks19.github.io/reading-notes/)
 
 ##### My rendered site can be found [here.](https://github.com/paneks19/reading-notes/blob/master/README.md)
+
+###### Link to Read:01 - [Learning Markdown](/learning-markdown)
