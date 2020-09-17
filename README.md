@@ -8,7 +8,7 @@ Reading Notes for Codefellows
 - [x] \(Optional) Post my Profile Picture
 - [ ] \(Optional) Leave a check box unchecked to test
 
-
+![Simon](
 
 
 ## Growth Mindset
