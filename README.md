@@ -69,8 +69,22 @@ To quote a block of text or code, use ``` "fences" before and after.
 
 To create a task list use the following
 ```
-- [ ] Item \(Incomplete)
-- [x] Item \(Complete)
+- [ ] Item (Incomplete)
+- [x] Item (Complete)
+```
+
+To create a chart:
+Letter|1|2|
+---|---|---
+A|A1|A2
+B|B2|B3
+
+Chart code
+```
+Letter|1|2|
+---|---|---
+A|A1|A2
+B|B2|B3
 ```
 
 
