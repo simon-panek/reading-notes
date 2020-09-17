@@ -54,6 +54,19 @@ X|X|X
   2. **Bold** `**text**` or `__text__`
   3. ~~Strike Through~~ `~~text~~`
   4. ~~***Combination***~~ `~~***text***~~`
-* Header tags are indicated with `#` = `<H1>`, `##` = `<H3>`, and so on up to `######` for `<H6>`.
+* Header tags are indicated with `#` = `<H1>`, `##` = `<H2>`, and so on up to `######` for `<H6>`.
+* Lists can be created using the following
+  1. `*` = Unordered
+  2. `-` = Unordered
+  3. `+` = Unordered
+  4. `1.` = Ordered
+  
+> To quote a line of text use `>`.
+
+---
+To quote a block of text or code, use `---` "fences" before and after.
+---
+
+
 
 
