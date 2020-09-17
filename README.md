@@ -25,8 +25,8 @@ If I were posting code, it would look like this.
 ## This looks like *Tic-Tac-Toe*, but it does not allow for user input.
 X|O|O
 -|-|-
-O|X|X
-X|O|X
+O|O|X
+X|X|X
 
 
 #### My GitHub [Portfolio](https://github.com/paneks19)
