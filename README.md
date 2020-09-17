@@ -8,10 +8,7 @@ Reading Notes for Codefellows
 - [x] \(Optional) Post my Profile Picture
 - [ ] \(Optional) Leave a check box unchecked to test
 
-<img src="/Simon%20Profile%20Pic.jpg" width=100>
-
-![Simon](/Simon%20Profile%20Pic.jpg)
-
+<img src="/Simon%20Profile%20Pic.jpg" width=200>
 
 ## Growth Mindset
 **Growth mindset** is the concept that intelligence, knowledge, and skill are *not* a fixed quantity and that with most things in life, a focused effort can lead to improvement.
