@@ -8,6 +8,8 @@ Reading Notes for Codefellows
 - [x] \(Optional) Post my Profile Picture
 - [ ] \(Optional) Leave a check box unchecked to test
 
+<img src="/Simon%20Profile%20Pic.jpg" width=100>
+
 ![Simon](/Simon%20Profile%20Pic.jpg)
 
 
