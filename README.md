@@ -9,7 +9,8 @@ Reading Notes for Codefellows
 - [ ] \(Optional) Leave a check box unchecked to test
 
 <img src="/Simon%20Profile%20Pic.jpg" width=200>
-###### Yet to figure out why this does not show up correctly in the deployed version. Possible issue with the theme?
+
+###### Yet to figure out why this picture does not show up correctly in the deployed version. Possible issue with the theme?
 
 
 ## Growth Mindset
@@ -30,7 +31,7 @@ X|O|O
 ---|---|---
 O|O|X
 X|X|X
-###### Yet to figure out why this does not show up correctly in the deployed version. Possible issue with the theme?
+###### Yet to figure out why this chart does not show up correctly in the deployed version. Possible issue with the theme?
 
 
 #### My GitHub [Portfolio](https://github.com/paneks19)
