@@ -2,10 +2,11 @@
 Reading Notes for Codefellows
 
 ### To Do:
-- [ ] Growth Mindset
-- [ ] Self Reminders
-- [ ] Links to My Pages
-- [ ] \(Optional) Post my Profile Picture
+- [x] Growth Mindset
+- [x] Self Reminders
+- [x] Links to My Pages
+- [x] \(Optional) Post my Profile Picture
+- [ ] \(Optional) Leave a check box unchecked to test
 
 
 ## Growth Mindset
