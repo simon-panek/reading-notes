@@ -8,7 +8,7 @@ Reading Notes for Codefellows
 - [x] \(Optional) Post my Profile Picture
 - [ ] \(Optional) Leave a check box unchecked to test
 
-! [Simon] <img src="/Simon%20Profile%20Pic.jpg" width=200 "Simon">
+<img src="/Simon%20Profile%20Pic.jpg" width=200>
 ###### Yet to figure out why this does not show up correctly in the deployed version. Possible issue with the theme?
 
 
