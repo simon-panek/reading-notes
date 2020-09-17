@@ -47,5 +47,5 @@ X|X|X
 
 ### Mastering Markdown on GitHub
 * Markdown is primarily plain text and allows the creator to stylize the text with minimal use of HTML tags. Special characters such as \* \# or \- indicate a style to be applied to the following item.
-* Images are inserted with the format '![Alt text](image path)'
+* Images are inserted with the format `![Alt text](image path)`
 
