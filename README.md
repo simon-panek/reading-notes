@@ -8,7 +8,9 @@ Reading Notes for Codefellows
 - [x] \(Optional) Post my Profile Picture
 - [ ] \(Optional) Leave a check box unchecked to test
 
-<img src="/Simon%20Profile%20Pic.jpg" width=200>
+! [Simon] <img src="/Simon%20Profile%20Pic.jpg" width=200>
+###### Yet to figure out why this does not show up correctly in the deployed version. Possible issue with the theme?
+
 
 ## Growth Mindset
 **Growth mindset** is the concept that intelligence, knowledge, and skill are *not* a fixed quantity and that with most things in life, a focused effort can lead to improvement.
@@ -23,11 +25,12 @@ Reading Notes for Codefellows
 If I were posting code, it would look like this.
 ```
 
-## This looks like *Tic-Tac-Toe*, but it does not allow for user input.
+## This looks like *Tic-Tac-Toe*, but it does not allow for user input. 
 X|O|O
 ---|---|---
 O|O|X
 X|X|X
+###### Yet to figure out why this does not show up correctly in the deployed version. Possible issue with the theme?
 
 
 #### My GitHub [Portfolio](https://github.com/paneks19)
