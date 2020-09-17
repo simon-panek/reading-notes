@@ -1,5 +1,6 @@
+***
 # reading-notes
-Reading Notes for Codefellows
+Reading Notes for Codefellows 102
 
 ### To Do:
 - [x] Growth Mindset
@@ -40,4 +41,6 @@ X|X|X
 
 ##### My rendered site can be found [here.](https://github.com/paneks19/reading-notes/blob/master/README.md)
 
-###### Link to Read:01 - [Learning Markdown](/learning-markdown)
+***
+
+
