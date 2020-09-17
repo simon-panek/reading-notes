@@ -63,9 +63,9 @@ X|X|X
   
 > To quote a line of text use `>`.
 
----
-To quote a block of text or code, use `---` "fences" before and after.
----
+```
+To quote a block of text or code, use ````` "fences" before and after.
+```
 
 
 
