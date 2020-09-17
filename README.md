@@ -124,10 +124,10 @@ IDE = Integrated Development Environment *a suite of software including text edi
 * It is possible to have multiple Terminals open at the same time, performing different functions.
 * A typical command has the form `command arguments` example: `ls -l`. This would list the contents of the current directory in long form (one item per line).
 * To open a Terminal
-   1. Mac = Applications \--> Utilities \--> Terminal
-     1. "Command + Space" will open Spotligth, then start typing Terminal
-   2. Linux = Applications \--> System or Applications \--> Utilities
-* Shell *Defines how the terminal looks and behaves. Most common is "bash"
+  1. Mac = Applications \--> Utilities \--> Terminal
+    1. "Command + Space" will open Spotligth, then start typing Terminal
+  2. Linux = Applications \--> System or Applications \--> Utilities
+* Shell *Defines how the terminal looks and behaves. Most common is "bash"*
 * Up and down arrows can be used to select previously used commands to save time
 
 ### Basic Navigation
@@ -147,7 +147,7 @@ IDE = Integrated Development Environment *a suite of software including text edi
 * Linux is not concerned with file extensions to determine file type
 * Linux is case sensitive
 * Spaces are used to seperate commands, so file names that have spaces should use quotes to combine terms or a `\` before the space to nullify it
-* Hidden Files *any filename that starts with a `.` is a hidden file. To hide or unhide simply add or remove a `.` at the begining of a file name. 
+* Hidden Files *any filename that starts with a `.` is a hidden file. To hide or unhide simply add or remove a `.` at the begining of a file name.* 
   
 ### Commands and their function:
 * `ls` (Lower case L before the s) *Lists the contents of the current directory*
