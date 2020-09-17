@@ -125,7 +125,7 @@ IDE = Integrated Development Environment *a suite of software including text edi
 * A typical command has the form `command arguments` example: `ls -l`. This would list the contents of the current directory in long form (one item per line).
 * To open a Terminal
   1. Mac = Applications \--> Utilities \--> Terminal
-    1. "Command + Space" will open Spotligth, then start typing Terminal
+     1. "Command + Space" will open Spotligth, then start typing Terminal
   2. Linux = Applications \--> System or Applications \--> Utilities
 * Shell *Defines how the terminal looks and behaves. Most common is "bash"*
 * Up and down arrows can be used to select previously used commands to save time
