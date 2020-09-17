@@ -15,6 +15,6 @@ Reading Notes for Codefellows
 
 
 
-##### My deployed site can be found [here.] (https://paneks19.github.io/reading-notes/)
+##### My deployed site can be found [here.](https://paneks19.github.io/reading-notes/)
 
-##### My rendered site can be found [here.] (https://github.com/paneks19/reading-notes/blob/master/README.md)
+##### My rendered site can be found [here.](https://github.com/paneks19/reading-notes/blob/master/README.md)
