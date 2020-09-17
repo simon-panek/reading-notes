@@ -11,3 +11,6 @@ Reading Notes for Codefellows
 
 ###### This is H6.
 
+
+
+##### My deployed site can be found [here.] (https://paneks19.github.io/reading-notes/)
