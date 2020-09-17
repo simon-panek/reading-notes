@@ -1,6 +1,12 @@
 # reading-notes
 Reading Notes for Codefellows
 
+> dragonfly
+
+& dragonfly
+
+'dragonfly'
+
 ### To Do:
 - [x] Growth Mindset
 - [x] Self Reminders
