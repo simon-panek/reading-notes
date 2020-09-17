@@ -118,6 +118,10 @@ Preinstalled Text Editors (Typically very bare bones.)
 * Sublime Text *This is a full service text editor. It has a free version, but the full version costs $70.*
 
 IDE = Integrated Development Environment *a suite of software including text editor, file manager, compiler, and debugger
+
+### The Command Line
+ 
+
 ***
 
 
