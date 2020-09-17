@@ -1,7 +1,11 @@
 # reading-notes
 Reading Notes for Codefellows
 
-#Me.
+### To Do:
+- [ ] Growth Mindset
+- [ ] Self Reminders
+- [ ] Links to My Pages
+- [ ] \(Optional) Post my Profile Picture
 
 
 ## Growth Mindset
