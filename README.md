@@ -26,7 +26,6 @@ If I were posting code, it would look like this.
 X|O|O
 -|-|-
 O|X|X
--|-|-
 X|O|X
 
 
