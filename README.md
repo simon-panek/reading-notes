@@ -88,7 +88,7 @@ B|B2|B3
 ```
 
 GitHub supports emoji :+1:!
-Here is an [emoji cheetsheet](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#using-emoji).
+Here is an [emoji cheat sheet](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#using-emoji).
 ***
 
 
