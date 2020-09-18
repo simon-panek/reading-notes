@@ -2,4 +2,4 @@
 
 
 
-[Return to reading-notes](/reading-notes.md)
+[Return to reading-notes](https://github.com/paneks19/reading-notes)
