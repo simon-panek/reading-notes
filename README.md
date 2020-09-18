@@ -1,6 +1,6 @@
 ***
 # reading-notes
-Reading Notes for Codefellows 102
+Reading Notes for Codefellows
 ***
 ## Reading Review Table of Contents
 
