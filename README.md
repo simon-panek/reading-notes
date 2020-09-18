@@ -1,6 +1,22 @@
 ***
 # reading-notes
 Reading Notes for Codefellows 102
+***
+## Reading Review Table of Contents
+
+* Coding 102: Class 1 - [Learning Markdown](url)
+* Coding 102: Class 2 - [The Coder's Computer](url)
+* Coding 102: Class 3 - [Git Intro](url)
+* Coding 102: Class 4 - 
+* Coding 102: Class 5 - 
+* Coding 102: Class 6 - 
+* Coding 102: Class 7 - 
+* Coding 102: Class 8 - 
+* Coding 102: Class 9 - 
+* Coding 102: Class 10 - 
+
+***
+## Profile
 
 ### To Do:
 - [x] Growth Mindset
