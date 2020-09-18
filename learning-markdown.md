@@ -47,4 +47,6 @@ B|B2|B3
 GitHub supports emoji :+1:!
 Here is an [emoji cheat sheet](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#using-emoji).
 ***
-[Return to reading-notes](https://github.com/paneks19/reading-notes)
+
+[Return to reading-notes Deployed Site](https://paneks19.github.io/reading-notes/)
+[Return to reading-notes Mark Down](https://github.com/paneks19/reading-notes)
