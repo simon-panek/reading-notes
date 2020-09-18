@@ -4,9 +4,9 @@ Reading Notes for Codefellows
 ***
 ## Reading Review Table of Contents
 
-* Coding 102: Class 1 - [Learning Markdown](url)
-* Coding 102: Class 2 - [The Coder's Computer](url)
-* Coding 102: Class 3 - [Git Intro](url)
+* Coding 102: Class 1 - [Learning Markdown](learning-markdown)
+* Coding 102: Class 2 - [The Coder's Computer](coders-computer)
+* Coding 102: Class 3 - [Git Intro](git-intro)
 * Coding 102: Class 4 - 
 * Coding 102: Class 5 - 
 * Coding 102: Class 6 - 
