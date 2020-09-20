@@ -1,5 +1,6 @@
 ***
 # reading-notes
+
 Reading Notes for Code Fellows
 ***
 ## Reading Review Table of Contents
@@ -19,9 +20,7 @@ Reading Notes for Code Fellows
 ***
 ## Profile
 
-<img src="/Simon%20Profile%20Pic.jpg" width=200>
-
-###### Yet to figure out why this picture does not show up correctly in the deployed version. Possible issue with the theme?
+![Me](Simon\ Profile\ Pic.jpg)
 
 #### My GitHub [Portfolio](https://github.com/paneks19)
 
@@ -30,21 +29,3 @@ Reading Notes for Code Fellows
 ##### My rendered site can be found [here.](https://github.com/paneks19/reading-notes/blob/master/README.md)
 
 ***
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
