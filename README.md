@@ -20,7 +20,7 @@ Reading Notes for Code Fellows
 ***
 ## Profile
 
-![Me](Simon\ Profile\ Pic.jpg)
+![Me](Simon Profile Pic.jpg)
 
 #### My GitHub [Portfolio](https://github.com/paneks19)
 
