@@ -1,10 +1,11 @@
 ***
 # reading-notes
-Reading Notes for Codefellows
+Reading Notes for Code Fellows
 ***
 ## Reading Review Table of Contents
 
 * Coding 102: Class 1 - [Learning Markdown](learning-markdown.md)
+  * [Growth Mindset](growth-mindset.md)
 * Coding 102: Class 2 - [The Coder's Computer](coders-computer.md)
 * Coding 102: Class 3 - [Git Intro](git-intro.md)
 * Coding 102: Class 4 - 
