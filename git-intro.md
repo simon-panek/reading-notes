@@ -27,15 +27,15 @@ Cloning a repository *Git will automatically give the name "origin" to the serve
 `$ git clone (url)`
 
 List of terminal commands
-`$ git status` *Returns the current branch as well as the status of working files*
-`$ git add filename` *Stages the filename*
-`$ git add *` *Stages all files in a repository*
-`$ git commit -m "message here describing the changes" *Commits the file and includes a describing message*
-`$ git push origin master` *Pushes changes from the local "master" branch to the remote repository named "origin".
-`$ git stash` *Temporarily removes changes and hides them, giving you a clean working directory*
-`$ git stash apply` *Retrieves hidden changes*
-`$ git remote` *See the short names of all specified remote handles*
-`$ git remote -v` *Shows all the remote URLs next to their short names*
+- `$ git status` *Returns the current branch as well as the status of working files*
+- `$ git add filename` *Stages the filename*
+- `$ git add *` *Stages all files in a repository*
+- `$ git commit -m "message here describing the changes" *Commits the file and includes a describing message*
+- `$ git push origin master` *Pushes changes from the local "master" branch to the remote repository named "origin".
+- `$ git stash` *Temporarily removes changes and hides them, giving you a clean working directory*
+- `$ git stash apply` *Retrieves hidden changes*
+- `$ git remote` *See the short names of all specified remote handles*
+- `$ git remote -v` *Shows all the remote URLs next to their short names*
 
 Remote repositories *versions of a project stored online or on network. Teams can push info to and pull info from remote repositories*
 
