@@ -42,8 +42,29 @@ Navigation *a good design allows users to better find and understand your conten
 
 ### Structure
 
+HTML (Hypertext Markup Language) *describes the structure of a webpage*
+
+HTML Elements *usually made up of two tags inside angle brackets `<example></example>`
+
+Attributes *provide more information and instruciton in a tag, consist of two parts: name and value seperated by "="*
+
+- Example `<p lang="en-us">Paragraph in English</p>`
+  - `lang` = name
+  - `"en-us"` = attribute value
 
 
+
+List of Tags
+
+- `<body></body>` *everything in this element is shown in the browser window*
+- `<head></head>` *contains information about the page*
+- `<title></title>` *title above the window tab*
+
+View Source *in browser allows you to see the code for the current page, this can be useful in figuring out how to achieve certain structures*
+
+## Read: 04 HTML & CSS Textbook Chapter 17
+
+### HTML 5 Layout
 
 
 
