@@ -66,6 +66,27 @@ View Source *in browser allows you to see the code for the current page, this ca
 
 ### HTML 5 Layout
 
+HTML 5 *introduced new tags that are more specific for the structure of the page*
+
+Common Structural Tags
+ - `<header>` *used at the top of a page or the top of a section to hold the descriptive info for that section*
+ - `<footer>` *at the bottom of a page to contain info like copyright or at the bottom of a section*
+ - `<nav>` *used to contain the major navigational blocks*
+ - `<article>` *used to contain any section that could potentially stand alone*
+ - `<aside>` *when used nested inside an article it should convery secondary information like a quote, when outside of an article acts as container for info relating to the entire page*
+ - `<section>` *element groups related content to gether*
+ - `<hgroup>` *used to contain a title and subtitle within an element*
+ - `<figure>` *used to contain any content that is referenced from a main article, the article should still make sense even if the figure is moved to another location*
+ - `<figurecaption>` *provides a text caption of the figure*
+ - `<div>` *contains related elements*
+ - `<a href="url">` *allows whole sections to be treated as a link if nested insde the `<a></a>`*
+
+ Older browsers may need to be updated or have extra JavaScript added to function properly.
+
+ ## Read: 04 HTML & CSS Textbook Chapter 8
+
+### Extra Markup
+
 
 
 
