@@ -113,9 +113,66 @@ Doctypes *tells the browser what kind of HTML it is using*
 Comments in HTML
 `<!--Comment-->` *allows coder to place notes in the code ignored by the computer*
 
-Left off at pg 181
+ID Attribute *every html element can have an id attribute used to individually name it. 
 
+- ID Attributes should start with a letter or an "_" not a number or other character
+- It is a global attribute because it can be used on any element
+- Example: `<p id="idname">`
 
+Class Attribute *allows multiple elements to be given the same label
+
+- Assigning a Class or id attribute does not alter the style unless a CCS style is specificially applied to the id or class
+- Example: `<p class="exampleclassname">`
+
+Block Elements *will always appear to start on a new line*
+
+``` html
+
+- <h1>
+- <p>
+- <ul>
+- <li>
+
+```
+
+Inline Elements *always appear to continue on the same line as their neighboring elements*
+
+``` html
+
+- <a>
+- <b>
+- <em>
+- <img>
+
+```
+
+Span *acts like an inline equivalent of the `<div>` tag.*
+
+- Example = `<span class="classname">Text that is spanned</span>`
+
+IFrames *short for inline frame, holds a seperate window within your window*
+
+- Common example would be embedding a google map within a page
+- Example = `<iframe width="desiredwidth" height="desiredheight" src="url"></iframe>`
+
+Meta *provides information about your page*
+
+- Lives inside the `<head>` element
+- Not visible to users, but useful to search engines, creator info, time sensitivity
+- Example: `<meta name="description" content="Descriptionofpage" />`
+  - Possible Attributes
+    - Description *description of page, helps search engines determine what the page is about, not more than 155 characters, may display on search engine results*
+    - Keywords *list of comma seperated words that a user may search for to find your site, no longer has an appreciable effect on page rank*
+    - Robots *indicates whether search engines should add this page to their search results or not*
+      - `<meta name="robots" content="noindex" />` *do not add to search results
+      - `<meta name="robots" content="nofollow" />` *add this page to search results but do not follow any links*
+    - Author *defines the page author*
+    - Pragma *prevents browser from caching the page*
+    - Expires *indicates when the page should expire if cashed*
+
+Escape characters allow the coder to add characters to the page that would otherwise be operands in html
+
+- Example = `&copy` = copyright symbol
 
 ***
 [Return to reading-notes Deployed Site](https://paneks19.github.io/reading-notes/)
