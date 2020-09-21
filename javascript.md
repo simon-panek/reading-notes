@@ -62,9 +62,7 @@ Variables
 Data Types
 
 Numeric Data Types | String Data Types | Boolean Data Types
-
 --- | --- | ---
-
 Example = `0.75` | Example = `'Hi, Ivy!'` | Example = `true`
 For tasks involving counting or sums | Enclosed in a pair of single or double quotes used for working with text | True / False
 
@@ -110,7 +108,7 @@ Hardware and Software
   - Master chip of the system, has smaller dediated hardware inside for specific task, but its primary job is to determine which components to use when depending on the task at hand
 - Operating system *master software of the system*
   - Program that controls all other programs and apportions inputs, resources, and outputs
-  
+
 
 ***
 [Return to reading-notes Deployed Site](https://paneks19.github.io/reading-notes/)
