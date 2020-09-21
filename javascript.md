@@ -60,8 +60,11 @@ Variables
   - `3` = Variable value
 
 Data Types
+
 Numeric Data Types | String Data Types | Boolean Data Types
+
 --- | --- | ---
+
 Example = `0.75` | Example = `'Hi, Ivy!'` | Example = `true`
 For tasks involving counting or sums | Enclosed in a pair of single or double quotes used for working with text | True / False
 
@@ -76,9 +79,38 @@ Strings must always be surrounded by quotes either `"string"` or `'string'` but 
 5. create a name that represents the information it stores
 6. use camelCase for names with more than one word
 
+### How do computers work? Video Notes
 
+Computers take in information, stores info, processes it, and outputs calculation resutls.
 
+- Input *data outside the computer that is put into the computer*
+- Storage *data kept in the computer*
+- Processing *running of algorithyms on stored data*
+- Output *providing the results to the user*
 
+Data and Binary
+
+- Bit is the smallest amount of information it stores either a 1 or a 0
+- Binary system *only have two digits: 0 and 1*
+- Text in binary *each letter is assigned a number which is then represented by multiple bits*
+
+Circuits and Logic
+
+- All computer calculations are the result of many small and simple calculations performe useing logic in the hardware circuits
+
+Memory, CPU, Input, and Output
+
+- Computers take input from the world, place it in memory, use the CPU to analyze or modify it, return it to memory, and output back to the user
+
+Hardware and Software
+
+- Hardware are the physical components that make up computer
+- Software is the code that controls the hardware
+- CPU *central processing unit* 
+  - Master chip of the system, has smaller dediated hardware inside for specific task, but its primary job is to determine which components to use when depending on the task at hand
+- Operating system *master software of the system*
+  - Program that controls all other programs and apportions inputs, resources, and outputs
+  
 
 ***
 [Return to reading-notes Deployed Site](https://paneks19.github.io/reading-notes/)
