@@ -14,6 +14,68 @@ HTML, CSS, and JavaScript *the three languages of a website*
 
 JavaScript *plain text language so it does not require any additional tools to start*
 
+[Link to Do Along project pages 46-49](https://github.com/paneks19/reading06-doalong)
+
+Objects and Methods
+
+- Example: *"calling a method of an object"*
+
+`document.write('Good afternoon!');`
+
+- `document` = Object *the `document` object represents the entire page*
+- `.` = Member Operator
+- `write('Good afternoon!')` = Method *allows new content to be written into the page where the `<script>` element sits*
+- `'Good afternoon!'` = Parameters *whenever a method requires some info to work, data is given inside the parentheses*
+
+JavaScript runs where it is found in the html, location maters.
+
+Chrome Developer Tools Shortcuts
+
+- View Source = `opt + cmd + U`
+- Developer Tools = `opt + cmd + I`
+- Inspect Elements = `opt + cmd + C`
+- JavaScript Console =`opt + cmd + J`
+
+Script *set of step by step instrucitons that a computer can follow, each should end with a `;`*
+
+- JS is case sensitive
+- `{}` indicate the begining and ending of a code block
+- Statements *instructions, each one should begin on a new line and end with a `;`*
+- Multiple statements can be grouped together between `{}` to form a singular related *code block*
+- `/*comment*/` Format for a multiline comment
+- `//comment` Format for a single line comment
+- Variable *location where scripts store data*
+
+Variables
+
+- Must declare a variable before being able to use it
+  - Example = `var quantity;`
+  - `var` = Variable Keyword
+  - `quantity;` = Variable Name *sometimes called an identifier*
+    - If more than one word, typically written in camelCase: `oneTwoThreeFour`
+- Assign a value
+  - Example = `quantity = 3;`
+  - `quantity` = Variable name
+  - `=` = Assignment operator
+  - `3` = Variable value
+
+Data Types
+Numeric Data Types | String Data Types | Boolean Data Types
+--- | --- | ---
+Example = `0.75` | Example = `'Hi, Ivy!'` | Example = `true`
+For tasks involving counting or sums | Enclosed in a pair of single or double quotes used for working with text | True / False
+
+Strings must always be surrounded by quotes either `"string"` or `'string'` but not a combination. It must also be on one line.
+
+6 Rules for naming variables
+
+1. must begin with a letter, dollar sign `$`, or underscore `_`
+2. no dashes `-`, or dots `.` are allowed in a name
+3. no **keywords** or **reserved words** are allowed
+4. names are case sensitive
+5. create a name that represents the information it stores
+6. use camelCase for names with more than one word
+
 
 
 
