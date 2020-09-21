@@ -84,10 +84,35 @@ CSS Bug Fixes and Tools
 
 ## Read: 5 Chapter 11
 
-Color
+Color *the `color:` property allows you to specify text color in an element*
 
+- RGB Values *express colors in terms of how much red, green, and blue are used `rgb(100,100,90)`
+- Hex Codes *express the color using six-digit code representing amount of red, green, and blue in a color preceeded by a `#`, example: `#ee3e80`*
+- Color Names *there are 147 predefined named colors, example: `DarkCyan`*
 
+CSS Comments *developer notes that will not effect the code*
+- Place comments between `/*comment*/`
 
+Background Color *background color is set to transparent by default, most browsers show white, but not always*
+
+``` css
+body {
+    background_color: rgb(200,200,200):}
+```
+
+Online Color Picking Tool
+[Color Scheme Designer](colorschemedesigner.com)
+
+Opacity *allows developer to set the opacity of an element and its children, values from 0.0 to 1.0*
+
+- To set opacity, indicate a color in `rgba`, example: `rgba(231,112,56,0.5)`
+
+HSL Colors *defines a color in three terms: hue, saturation, and lightness*
+
+- Hue *colloquial idea of color, often shown as a color wheel indicated by degrees 0-360*
+- Saturation *amount of gray in a color, 100% is full saturation, 0% is a shade of gray*
+- Lightness *amount of white or black in a color, 0% Lightness is black, 100% Lightness is white, 50% is normal. AKA Luminosity*
+- HSLA *adds the alapha value for transparency from 0 to 1.0*
 
 ***
 [Return to reading-notes Deployed Site](https://paneks19.github.io/reading-notes/)
