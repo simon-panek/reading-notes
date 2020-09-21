@@ -101,7 +101,7 @@ body {
 ```
 
 Online Color Picking Tool
-[Color Scheme Designer](colorschemedesigner.com)
+[Color Scheme Designer](https://colorschemedesigner.com/csd-3.5/)
 
 Opacity *allows developer to set the opacity of an element and its children, values from 0.0 to 1.0*
 
