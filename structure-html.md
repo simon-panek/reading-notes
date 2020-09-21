@@ -87,7 +87,33 @@ Common Structural Tags
 
 ### Extra Markup
 
+- HTML 4
+  - Released in 1997
+  - Most elements from HTML 5 are available in 4
+  - A few specific tags are no longer recomended although they still work
 
+- XHTML 1.0
+  - Released 2000
+  - This was a re-write of HTML 4 to follow the rules of XML
+  - More strict that 4
+
+- HTML 5
+  - Work in progress
+  - Browser builders are implimenting now
+  - May need to provide backwards compatibility for older browsers
+
+Doctypes *tells the browser what kind of HTML it is using*
+
+- HTML 5 = `<!DOCTYPE html>`
+- HTML 4 = `<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3org/TR/html14/loose.dtd">`
+- Transitional XHTML 1.0 = `<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">`
+- Strict XHTML 1.0 = `<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">`
+- XML Declaration = `<?xml version="1.0" ?>`
+
+Comments in HTML
+`<!--Comment-->` *allows coder to place notes in the code ignored by the computer*
+
+Left off at pg 181
 
 
 
