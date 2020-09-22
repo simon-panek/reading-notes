@@ -63,8 +63,80 @@ Mixing numbers and strings
 
 ## Read: JavaScipt and JQuery Text pg 88-94
 
+Functions *allow programmer to group a series of statements together to perform a specific task*
 
+- Calling the function *the act of running the function, when and where it is desired*
+- `{code block}` *Code blocks contain a series of related steps contained between two curly braces}*
+- Parameters *pieces of information passed to a function*
+- Return Value *the output of a function*
 
+Declaring a Function *give it a name and then write its statements needed to achieve its taks inside the curly braces*
+
+- Function *keyword that declares a function*
+- Name *name the function (use camelCase) followed by `()`
+- Statents *perform the tasks of the function between the `{}`
+- Example: 
+
+```javascript
+
+function sayHello() {
+    document.write('Hello!');
+}
+
+```
+
+- `function` = Function Keyword
+- `sayHello()` = Function Name
+- `{documnet.write('Hello!');}` = Code Block
+
+Calling a Function *can execute all of the statements between a functions curly braces with just one line of code in the location that programmer desires*
+
+- Use the function name followed by `();`
+- Example: `sayHello();`
+
+Declaring functions that need information *give a function information by providing parameters*
+- Parameters *act like variables inside the equation, placed inside the `()` after the function name*
+
+```javascript
+
+function getArea(width,height) {
+    return width * height;
+}
+
+```
+
+- `width, height` = Parameters *used like veriables inside a function*
+
+Calling a Function that nees information *specify the values it should use in the `()` following the name, these values are called arguments*
+
+- Example of arguments as values = `getArea(3,5);`
+- Example of arguments as variables = 
+
+```javascript
+
+wallWidth = 3;
+wallHeight = 5;
+getArea(wallWidth,wallHeight);
+
+```
+
+Getting a single value out of a function *"returning a result"*
+
+```javascript
+
+function calculateArea(width, height) {
+    var area = width * height;
+    return area;
+}
+var wallOne = calculateArea(3,5);
+var wallTwo = calculateArea(8,5);
+
+```
+
+- `wallOne` variable now holds 15
+- `wallTwo` variable now holds 40
+
+*Note: when the interpreter hits the return command it goes back to the statemnt that called it, subsiqent statements in the function would not be processed*
 
 ***
 [Return to reading-notes Deployed Site](https://paneks19.github.io/reading-notes/)
