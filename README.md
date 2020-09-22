@@ -12,7 +12,7 @@ Reading Notes for Code Fellows
 * Coding 102: Class 4 - [Structure of the Web - HTML](structure-html.md)
 * Coding 102: Class 5 - [Design with CSS](design-css.md)
 * Coding 102: Class 6 - [Java Script](javascript.md)
-* Coding 102: Class 7 - 
+* Coding 102: Class 7 - [Programming with JavaScript](programming-js.md)
 * Coding 102: Class 8 - 
 * Coding 102: Class 9 - 
 * Coding 102: Class 10 - 
