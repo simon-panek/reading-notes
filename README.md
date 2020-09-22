@@ -13,7 +13,7 @@ Reading Notes for Code Fellows
 * Coding 102: Class 5 - [Design with CSS](design-css.md)
 * Coding 102: Class 6 - [Java Script](javascript.md)
 * Coding 102: Class 7 - [Programming with JavaScript](programming-js.md)
-* Coding 102: Class 8 - 
+* Coding 102: Class 8 - [Operators and Loops](operators-loops.md)
 * Coding 102: Class 9 - 
 * Coding 102: Class 10 - 
 
