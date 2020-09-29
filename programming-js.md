@@ -20,11 +20,11 @@ Vocabulary *words that computers understand*
 
 Syntax *how teh words are put together to create instructions that computers can follow*
 
-Computers solve problems proramattically, following a series of instrucitons, one step after another
+Computers solve problems programmatically, following a series of instructions, one step after another
 
-## Read: JavaScipt and JQuery Text pg 74-79
+## Read: JavaScript and JQuery Text pg 74-79
 
-Expressions evelauate into a singlge value
+Expressions evaluate into a single value
 
 - First type are expressions that just assign a value to a variable
   - Example: `var color = 'beige';` *The value of color is now beige*
