@@ -19,7 +19,7 @@ This pages currently contains all of the reading notes from Code 102 and will so
 ### Code 201
 
 * Code 201: Pre-work - [Reading from 102](class-01.md)
-* Code 201: Day 2 - [HTML Text, CSS Introduction, and Basic Java Instructions](201-class-02)
+* Code 201: Day 2 - [HTML Text, CSS Introduction, and Basic Java Instructions](201-class-02.md)
 * Code 201: Day 3 - 
 * Code 201: Day 4 - 
 * Code 201: Day 5 - 
