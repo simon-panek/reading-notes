@@ -2,14 +2,14 @@
 ***
 ## Read: JavaScipt and JQuery Text pg 1-24
 
-JavaScript *used in browsers to make websits more interactive*
+JavaScript *used in browsers to make websites more interactive*
 
 - Access Content *can be used to select the contents of a specific element*
 - Modify Content *can be used to change content in an element*
-- Program Rules *create a set of steps for the brower to follow to access and modify content*
+- Program Rules *create a set of steps for the browser to follow to access and modify content*
 - React to Events *specify when a script should run*
 
-Script *a seriese of instructions a computer can follow to achieve a goal*
+Script *a series of instructions a computer can follow to achieve a goal*
 
 - Writing a script
   1. Define the goal
@@ -44,11 +44,11 @@ Operators allow programmers to create a single value from one or more values
 - Logical Operators *combine expressions and return true or false*
   - `buy = (5>3) && (2<4);` *The value of buy is now true*
 
-Arithmetic Operators *JS contians the standard operators `+, -, /, *` which can be used with numbers as well as the following special operators*
+Arithmetic Operators *JS contains the standard operators `+, -, /, *` which can be used with numbers as well as the following special operators*
 
 - `++` *(Increment) adds one to the current number*
 - `--` *(Decrement) subtracts one from the current number*
-- `%` *(Modulus) devides two values and returns the remainder example: `10 % 3 = 1`*
+- `%` *(Modulus) divides two values and returns the remainder example: `10 % 3 = 1`*
 
 String Operator *just one operator `+` used to join strings on either side*
  
@@ -56,10 +56,10 @@ String Operator *just one operator `+` used to join strings on either side*
 
 Mixing numbers and strings
 
-- Quotes around a number (`#`) create a string, not a numberic number type. Arithmetic operators cannot be used on strings
+- Quotes around a number (`#`) create a string, not a numeric number type. Arithmetic operators cannot be used on strings
   - Example: `'2' + '2' = '22'` *Adding strings concatenates them, it does not add.*
   - Example: `12 + 'Bob' = '12Bob'` *Adding a number to a string, creates a new concatenated string*
-  - Example: `'seven' * 'nine' = NaN` *(Not a Number) attempting to use arethmetic operators on strings will return a value called NaN*
+  - Example: `'seven' * 'nine' = NaN` *(Not a Number) attempting to use arithmetic operators on strings will return a value called NaN*
 
 ## Read: JavaScipt and JQuery Text pg 88-94
 
@@ -70,11 +70,11 @@ Functions *allow programmer to group a series of statements together to perform 
 - Parameters *pieces of information passed to a function*
 - Return Value *the output of a function*
 
-Declaring a Function *give it a name and then write its statements needed to achieve its taks inside the curly braces*
+Declaring a Function *give it a name and then write its statements needed to achieve its tasks inside the curly braces*
 
 - Function *keyword that declares a function*
 - Name *name the function (use camelCase) followed by `()`
-- Statents *perform the tasks of the function between the `{}`
+- Statements *perform the tasks of the function between the `{}`
 - Example: 
 
 ```javascript
