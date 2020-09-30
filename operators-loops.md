@@ -64,17 +64,17 @@ for (var i = 0; i < 10; i++) {
 
 ```
 
-The preceeding loop will write `0123456789` to the page.
+The preceding loop will write `0123456789` to the page.
 
 - `for` *keyword indicating a `for` loop*
 - `(var i = 0; i < 10; i++)` *Condition (Counter)*
-- `docment.write(i);` *Code to execute during loop*
+- `document.write(i);` *Code to execute during loop*
 
 Loop Counter
 
 - `var i = 0;` Initialization *creates a variable and sets it to 0
 - `i < 10;` Condition *loop will continue to run until it reaches a specified number, may also use a variable that holds a number*
-- `i++` Update *everytime the loop is run it adds one to the counter*
+- `i++` Update *every time the loop is run it adds one to the counter*
 
 ## Read: JavaScript and JQuery Text pg 176
 
