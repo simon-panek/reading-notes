@@ -21,7 +21,7 @@ This pages currently contains all of the reading notes from Code 102 and will so
 * Code 201: Pre-work - [Reading from 102](class-01.md)
 * Code 201: Day 2 - [HTML Text, CSS Introduction, and Basic JS Instructions](201-class-02.md)
 * Code 201: Day 3 - [HTML Lists, CSS Boxes, and JS Control Flow](201-class-03.md)
-* Code 201: Day 4 - 
+* Code 201: Day 4 - [HTML Links, JS Functions, and CSS Layout](201-class-04.md)
 * Code 201: Day 5 - 
 * Code 201: Day 6 - 
 * Code 201: Day 7 - 
