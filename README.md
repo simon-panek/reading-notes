@@ -24,7 +24,7 @@ This pages currently contains all of the reading notes from Code 102 and will so
 * Code 201: Day 4 - [HTML Links, JS Functions, and CSS Layout](201-class-04.md)
 * Code 201: Day 5 - [HTML Images; Css Color and Text](201-class-05.md)
 * Code 201: Day 6 - [JS Object Literals, The DOM](201-class-06.md)
-* Code 201: Day 7 - 
+* Code 201: Day 7 - [Object-Oriented Programming](201-class-07.md)
 * Code 201: Day 8 - 
 * Code 201: Day 9 - 
 * Code 201: Day 10 - 
