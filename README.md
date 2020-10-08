@@ -27,7 +27,7 @@ This pages currently contains all of the reading notes from Code 102 and will so
 * Code 201: Day 7 - [Object-Oriented Programming](201-class-07.md)
 * Code 201: Day 8 - [HTML/CSS Layout Ch 15](201-class-08.md)
 * Code 201: Day 9 - [Forms and JS Events](201-class-09.md)
-* Code 201: Day 10 - 
+* Code 201: Day 10 - [Error Handling and Debugging](201-class-10.md)
 * Code 201: Day 11 - 
 * Code 201: Day 12 - 
 * Code 201: Day 13 - 
