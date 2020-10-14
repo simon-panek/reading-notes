@@ -29,9 +29,9 @@ This pages currently contains all of the reading notes from Code 102 and will so
 * Code 201: Day 9 - [Forms and JS Events](201-class-09.md)
 * Code 201: Day 10 - [Error Handling and Debugging](201-class-10.md)
 * Code 201: Day 11 - [Audio, Video, Images](201-class-11.md)
-* Code 201: Day 12 - 
-* Code 201: Day 13 - 
-* Code 201: Day 14 - 
+* Code 201: Day 12 - [Chart.js](201-class-12.md)
+* Code 201: Day 13 - [Local Storage](201-class-13.md)
+* Code 201: Day 14 - [CSS Transforms, Transitions, and Animations](201-class-14.md)
 * Code 201: Day 15 - 
 
 ***
