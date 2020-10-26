@@ -119,6 +119,50 @@
 - Arrow functions are all anonymous and do not have names
 - Can assign a variable the value of an arrow function
 
+## Read: Let and Const
+
+### [Let MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let)
+
+### [Can I use: let](https://caniuse.com/let)
+
+- let *declares variables that are limited to the scope of a block statement, or expression*
+  - Only initialized to a value when a parser evaluates it
+  - Does not create properties of the `window` object when declared globally
+    - Example:
+
+    ```JavaScript
+
+        var x = 'global';
+        let y = 'global';
+        console.log(this.x); // "global"
+        console.log(this.y); // undefined
+
+    ```
+
+### [Const MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const)
+
+### [Can I use: let](https://caniuse.com/const)
+
+- Constants *block scoped, can't be changed through reassignment and can't be redeclared*
+- Global constants do not be come properties of the `window` object
+- Must assign value at time of declaration
+- `const` declaration creates a read-only reference to a variable
+- Cannot share a name with a a function or a variable in the same scope
+- Can be declared with upper or lower case, convention is to use all-uppercase letters
+
+### Video: [Var, Let and Const](https://www.youtube.com/watch?v=sjyJBL5fkp8)
+
+- Constants minimize mutable state!
+
+### Read: [JavaScript ES6+: var, let, or const?](https://medium.com/javascript-scene/javascript-es6-var-let-or-const-ba58b8dcde75)
+
+- `typeof` does not work with `let` or `const`
+
+### Read: [let vs const ES6 - Wes Bos](https://wesbos.com/let-vs-const)
+
+- Whenever you are inside of a set of curly braces you are in block scope
+- `const` cannot be assigned a new value after declaration, but if it is an object its properties can be updated
+
 ***
 
 [Return to reading-notes Deployed Site](https://paneks19.github.io/reading-notes/)
