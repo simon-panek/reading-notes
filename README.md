@@ -33,6 +33,10 @@ This pages currently contains all of the reading notes from Code 102 and will so
 * Code 201: Day 13 - [Local Storage](201-class-13.md)
 * Code 201: Day 14 - [CSS Transforms, Transitions, and Animations](201-class-14.md)
 
+### Code 301
+
+* Code 201: Pre-work - [Pre-work Reading Notes](301-prework-notes.md)
+
 ***
 
 #### My GitHub [Portfolio](https://github.com/paneks19)
