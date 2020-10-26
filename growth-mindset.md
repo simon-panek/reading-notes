@@ -26,3 +26,9 @@ X|X|X
 ###### Yet to figure out why this chart does not show up correctly in the deployed version. Possible issue with the theme?
 
 [<== Back](README.md)
+
+***
+
+[Return to reading-notes Deployed Site](https://simon-panek.github.io/reading-notes/)
+
+[Return to reading-notes Mark Down](https://github.com/simon-panek/reading-notes)

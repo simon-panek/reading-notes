@@ -39,10 +39,10 @@ This pages currently contains all of the reading notes from Code 102 and will so
 
 ***
 
-#### My GitHub [Portfolio](https://github.com/paneks19)
+#### My GitHub [Portfolio](https://github.com/simon-panek)
 
-##### My deployed site can be found [here.](https://paneks19.github.io/reading-notes/)
+##### My deployed site can be found [here.](https://simon-panek.github.io/reading-notes/)
 
-##### My rendered site can be found [here.](https://github.com/paneks19/reading-notes/blob/master/README.md)
+##### My rendered site can be found [here.](https://github.com/simon-panek/reading-notes/blob/master/README.md)
 
 ***
