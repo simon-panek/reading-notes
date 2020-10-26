@@ -32,7 +32,6 @@ This pages currently contains all of the reading notes from Code 102 and will so
 * Code 201: Day 12 - [Chart.js](201-class-12.md)
 * Code 201: Day 13 - [Local Storage](201-class-13.md)
 * Code 201: Day 14 - [CSS Transforms, Transitions, and Animations](201-class-14.md)
-* Code 201: Day 15 - 
 
 ***
 
