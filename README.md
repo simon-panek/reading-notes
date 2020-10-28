@@ -35,7 +35,8 @@ This pages currently contains all of the reading notes from Code 102 and will so
 
 ### Code 301
 
-* Code 201: Pre-work - [Pre-work Reading Notes](301-prework-notes.md)
+* Code 301: Pre-work - [Pre-work Reading Notes](301-prework-notes.md)
+* Code 301: Day 1 - [Responsive Web Design & SMACSS](301-class-01.md)
 
 ***
 
