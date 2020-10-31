@@ -1,6 +1,6 @@
 # reading-notes
 
-This pages currently contains all of the reading notes from Code 102 and will soon contain notes from Code 201, Code 301, and Code 401 
+This pages currently contains all of the reading notes from Code 102 and 201. It will soon contain notes from Code 301, and Code 401. 
 
 ## Reading Review Table of Contents
 
