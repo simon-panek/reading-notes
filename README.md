@@ -37,6 +37,14 @@ This pages currently contains all of the reading notes from Code 102 and 201. It
 
 * Code 301: Pre-work - [Pre-work Reading Notes](301-prework-notes.md)
 * Code 301: Day 1 - [Responsive Web Design & SMACSS](301-class-01.md)
+* Code 301: Day 2 - [JQuery](301-class-02.md)
+* Code 301: Day 3 - [Mustache and Flexbox](301-class-03.md)]
+* Code 301: Day 4 - [CSS Grid](301-class-04.md)
+* Code 301: Day 5 - [Heroku](301-class-05.md)
+* Code 301: Day 6 - [Node.js](301-class-06.md)
+* Code 301: Day 7 - [What Google Learned About Teams](301-class-07.md)
+* Code 301: Day 8 - [SQL](301-class-08.md)
+* Code 301: Day 9 - [Functional Programming](301-class-09.md)
 
 ***
 
