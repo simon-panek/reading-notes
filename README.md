@@ -47,6 +47,8 @@ This pages currently contains all of the reading notes from Code 102 and 201. It
 * Code 301: Day 9 - [Functional Programming](301-class-09.md)
 * Code 301: Day 10 - [The Call Stack](301-class-10.md)
 * Code 301: Day 11 - [EJS](301-class-11.md)
+* Code 301: Day 12 - [Components and Partials](301-class-12.md)
+* Code 301: Day 13 - [Sending Form Data](301-class-13.md)
 
 ***
 
