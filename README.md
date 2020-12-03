@@ -52,6 +52,10 @@ This pages currently contains all of the reading notes from Code 102 and 201. It
 * Code 301: Day 14 - [DB Normalization](301-class-14.md)
 * Code 301: Day 15 - [Diversity and Inclusion](301-class-15.md)
 
+### Code 401
+
+* Code 401: Prework - [Prework Reading Notes](401-prework-notes.md)
+
 ***
 
 #### My GitHub [Portfolio](https://github.com/simon-panek)
