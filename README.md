@@ -56,6 +56,9 @@ This pages currently contains all of the reading notes from Code 102 and 201. It
 
 * Code 401: Prework - [Prework Reading Notes](401-prework-notes.md)
 * Code 401: Day 1 - [Node Ecosystem, TDD, CI/CD](401-class-01.md)
+* Code 401: Day 2 - [Express](401-class-02.md)
+* Code 401: Day 3 - [Express ReST API](401-class-03.md)
+* Code 401: Day 4 - [Data Modeling](401-class-04.md)
 
 ***
 
