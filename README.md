@@ -61,7 +61,7 @@ This pages currently contains all of the reading notes from Code 102 and 201. It
 * Code 401: Day 4 - [Data Modeling](401-class-04.md)
 * Code 401: Day 5 - [Linked Lists](401-class-05.md)
 * Code 401: Day 6 - [Authentication](401-class-06.md)
-* Code 401: Day 7 - [TBD](401-class-07.md)
+* Code 401: Day 7 - [Bearer Authorization](401-class-07.md)
 * Code 401: Day 8 - [TBD](401-class-08.md)
 * Code 401: Day 9 - [TBD](401-class-09.md)
 * Code 401: Day 10 - [TBD](401-class-10.md)
