@@ -63,8 +63,8 @@ This pages currently contains all of the reading notes from Code 102 and 201. It
 * Code 401: Day 6 - [Authentication](401-class-06.md)
 * Code 401: Day 7 - [Bearer Authorization](401-class-07.md)
 * Code 401: Day 8 - [Access Control](401-class-08.md)
-* Code 401: Day 9 - [TBD](401-class-09.md)
-* Code 401: Day 10 - [TBD](401-class-10.md)
+* Code 401: Day 9 - No Reading for Day 9
+* Code 401: Day 10 - [Stacks and Queues](401-class-10.md)
 
 ***
 
