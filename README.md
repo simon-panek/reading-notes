@@ -78,7 +78,7 @@ This pages currently contains all of the reading notes from Code 102 and 201. It
 * Code 401: Day 26 - [Component Based UI](401-class-26.md)
 * Code 401: Day 27 - [Props and State](401-class-27.md)
 * Code 401: Day 28 - [Component Composition](401-class-28.md)
-* Code 401: Day 29 - [TBD](401-class-29.md)
+* Code 401: Day 29 - [Routing](401-class-29.md)
 * Code 401: Day 30 - [TBD](401-class-30.md)
 
 
