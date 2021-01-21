@@ -82,9 +82,14 @@ This pages currently contains all of the reading notes from Code 102 and 201. It
 * Code 401: Day 30 - [Hash Tables](401-class-30.md)
 * Code 401: Day 31 - [Hooks API](401-class-31.md)
 * Code 401: Day 32 - [Custom Hooks](401-class-32.md)
-* Code 401: Day 33 - [TBD](401-class-33.md)
+* Code 401: Day 33 - [Context](401-class-33.md)
 * Code 401: Day 34 - [Log In and Auth](401-class-34.md)
 * Code 401: Day 35 - [Graphs](401-class-35.md)
+* Code 401: Day 36 - [Redux](401-class-36.md)
+* Code 401: Day 37 - [TBD](401-class-37.md)
+* Code 401: Day 38 - [TBD](401-class-38.md)
+* Code 401: Day 39 - [TBD](401-class-39.md)
+* Code 401: Day 40 - [TBD](401-class-40.md)
 
 ***
 
