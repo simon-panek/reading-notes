@@ -88,8 +88,10 @@ This pages currently contains all of the reading notes from Code 102 and 201. It
 * Code 401: Day 36 - [Redux](401-class-36.md)
 * Code 401: Day 37 - [Redux Combined Reducers](401-class-37.md)
 * Code 401: Day 38 - [Redux Asynchronous Actions](401-class-38.md)
-* Code 401: Day 39 - [TBD](401-class-39.md)
-* Code 401: Day 40 - [TBD](401-class-40.md)
+* Code 401: Day 39 - [Redux Additional Topics](401-class-39.md)
+* Code 401: Day 41 - [React Native](401-class-41.md)
+* Code 401: Day 42 - [Ethics](401-class-42.md)
+* Code 401: Day 40 - [Gatsby, Next.js, other Frameworks](401-class-43.md)
 
 ***
 
